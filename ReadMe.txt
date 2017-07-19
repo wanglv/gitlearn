@@ -6,3 +6,4 @@ Add a newLine
 My stupid boss still prefers svn.
 Create a new branch is quick And simple.
 Add branch dev.
+Add new line1
